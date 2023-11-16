@@ -24,74 +24,8 @@
         "filename":"justice_as_fairness_intro.pdf",
         "title":"Justice as Fairness: A Restatement"
     },
-    {
-        "link":"https:\/\/iep.utm.edu\/rawls\/",
-        "filename":"iep_rawls.html",
-        "title":"Internet Encyclopedia of Philosophy: John Rawls"
-    },
-    {
-        "link":"https:\/\/en.wikipedia.org\/wiki\/John_Rawls",
-        "filename":"wikipedia_rawls.pdf",
-        "title":"Wikipedia: John Rawls"
-    },
-    {
-        "link":"https:\/\/en.wikipedia.org\/wiki\/A_Theory_of_Justice",
-        "filename":"wikipedia_toj.pdf",
-        "title":"Wikipedia: A Theory of Justice"
-    },
-    {
-        "link":"https:\/\/en.wikipedia.org\/wiki\/A_Theory_of_Justice:_The_Musical",
-        "filename":"toj_musical.pdf",
-        "title":"Wikipedia: A Theory of Justice - The Musical"
-    },
-    {
-        "link":"https:\/\/plato.stanford.edu\/entries\/rawls\/",
-        "filename":"sep_rawls.html",
-        "title":"Stanford Encyclopedia of Philosophy: John Rawls"
-    },
-    {
-        "link":"https:\/\/plato.stanford.edu\/entries\/original-position\/",
-        "filename":"sep_original_position.html",
-        "title":"Stanford Encyclopedia: The Original Position"
-    },
-    {
-        "link":"https:\/\/plato.stanford.edu\/entries\/reflective-equilibrium\/",
-        "filename":"sep_reflective_equilibrium.html",
-        "title":"Stanford Encyclopedia: Reflective Equilibrium"
-    },
-    {
-        "link":"https:\/\/plato.stanford.edu\/entries\/public-reason\/",
-        "filename":"sep_public_reason.html",
-        "title":"Stanford Encyclopedia: Public Reason"
-    },
-    {
-        "link":"https:\/\/plato.stanford.edu\/entries\/justification-public\/",
-        "filename":"sep_public_justification.html",
-        "title":"Stanford Encyclopedia: Public Justification"
-    },
-    {
-        "link":"https:\/\/plato.stanford.edu\/entries\/international-justice\/",
-        "filename":"sep_international_justice.html",
-        "title":"Stanford Encyclopedia: International Justice"
-    },
-    {
-        "link":"https:\/\/plato.stanford.edu\/entries\/justice\/",
-        "filename":"sep_justice.html",
-        "title":"Stanford Encyclopedia: Justice"
-    },
-    {
-        "link":"https:\/\/plato.stanford.edu\/entries\/contractarianism-contemporary\/",
-        "filename":"sep_contemporary_social_contract.html",
-        "title":"Stanford Encyclopedia: Contemporary Social Contract Theory"
-    },
-    {
-        "link":"https:\/\/plato.stanford.edu\/entries\/liberalism\/",
-        "filename":"sep_liberalism.html",
-        "title":"Stanford Encyclopedia: Liberalism"
-    },
-    {
-        "link":"https:\/\/ir.lawnet.fordham.edu\/cgi\/viewcontent.cgi?article=3972&context=flr",
-        "filename":"pogge_incoherence.pdf",
-        "title":"The Incoherence of Pogge's Global Justice"
+    {"link":"https:\/\/raw.githubusercontent.com\/MNoichl\/rawlsbot\/main\/rawls_source_texts_wiki_sep_iep.txt",
+    "filename":"encyclopedias.txt",
+    "title":"A compendium of encyclopedias, mostly Stanford Encyclopedia and Wikipedia"
     }
 ]
